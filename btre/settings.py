@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'btre.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
-
+#  need to configure the database to use postgres
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
