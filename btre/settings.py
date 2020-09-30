@@ -25,7 +25,7 @@ SECRET_KEY = 'zf8v($4&fa0_++c0!(9w#!=5%x@!j!dea*$ur)+0e7!r9=offg'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-
+# subject to change before production
 ALLOWED_HOSTS = []
 
 
